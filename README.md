@@ -82,7 +82,7 @@ $ yarn dev
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/MyEvolution-as-a-Front-end" target="_blank">João alves</a>
+Made with :heart: by <a href="https://github.com/JohnAnon9771" target="_blank">João alves</a>
 
 &#xa0;
 
